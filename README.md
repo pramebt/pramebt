@@ -4,8 +4,9 @@ Hi 👋 I'm **Bandit Kaewnoi**
 A passionate **Front-End Developer** who loves crafting interactive and visually engaging web experiences.  
 Currently expanding my skills into **Full-Stack Development**.
 
-📫 Reach me: **[bdforwk@gmail.com](mailto:bdforwk@gmail.com)**  
-🌐 Portfolio: **[bd-portfolio-real.vercel.app](https://bd-portfolio-real.vercel.app/)**
+📫 Reach me: [bdforwk@gmail.com](mailto:bdforwk@gmail.com)  
+🌐 Portfolio: [bd-portfolio-real.vercel.app](https://bd-portfolio-real.vercel.app/)
+
 ---
 
 ## 🌐 Connect with me
