@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FACC15&center=true&vCenter=true&width=420&lines=Web+Developer;Front-End+Lover;React+%2F+Next.js+Enthusiast" alt="Web Developer Typing SVG" />
+</p>
+
+# 💫 About Me
+
+Hi 👋 I'm **Bandit Kaewnoi**  
+A passionate **Front-End Developer** who loves crafting interactive and visually engaging web experiences.  
+Currently expanding my skills into **Full-Stack Development**.
+
+📫 Reach me: [bdforwk@gmail.com](mailto:bdforwk@gmail.com)  
+🌐 Portfolio: [bd-portfolio-real.vercel.app](https://bd-portfolio-real.vercel.app/)
+
+---
+
+
 # 💫 About Me
 
 Hi 👋 I'm **Bandit Kaewnoi**  
