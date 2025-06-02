@@ -13,18 +13,6 @@ Currently expanding my skills into **Full-Stack Development**.
 
 ---
 
-
-# 💫 About Me
-
-Hi 👋 I'm **Bandit Kaewnoi**  
-A passionate **Front-End Developer** who loves crafting interactive and visually engaging web experiences.  
-Currently expanding my skills into **Full-Stack Development**.
-
-📫 Reach me: [bdforwk@gmail.com](mailto:bdforwk@gmail.com)  
-🌐 Portfolio: [bd-portfolio-real.vercel.app](https://bd-portfolio-real.vercel.app/)
-
----
-
 ## 🌐 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pramtbt)  
