@@ -43,6 +43,4 @@ Currently expanding my skills into **Full-Stack Development**.
 ---
 
 <!-- Profile view counter (ใส่บรรทัดนี้เพิ่มเข้าไป) -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pramebt&icon=0&color=0" alt="Profile Views" />
-</p>
+![Profile View Counter](https://komarev.com/ghpvc/?username=pramebt&color=blue)
