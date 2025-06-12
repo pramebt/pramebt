@@ -10,7 +10,9 @@ Currently expanding my skills into **Full-Stack Development**.
 
 📫 Reach me: [bdforwk@gmail.com](mailto:bdforwk@gmail.com)  
 🌐 Portfolio: [bd-portfolio-real.vercel.app](https://bd-portfolio-real.vercel.app/)
-[![](https://visitcount.itsvg.in/api?id=pramebt&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=pramebt&icon=0&color=0" alt="Profile Views" />
+</p>
 
 
 ---
