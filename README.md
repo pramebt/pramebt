@@ -1,46 +1,76 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=66FFFF&center=true&vCenter=true&width=420&lines=Web+Developer;Front-End+Lover;React+%2F+Next.js" alt="Web Developer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=420&lines=Web+Developer;Front-End+Lover;React+%2F+Next.js" alt="Typing SVG" />
 </p>
 
-# 💫 About Me
+<h1 align="center">Hi 👋 I'm Bandit Kaewnoi</h1>
+<p align="center">
+  <b>Front-End Developer</b> who loves crafting clean, interactive, and modern web experiences.<br/>
+  Currently exploring <b>Full-Stack Development</b> to bridge UI and backend seamlessly.
+</p>
 
-Hi 👋 I'm **Bandit Kaewnoi**  
-A passionate **Front-End Developer** who loves crafting interactive and visually engaging web experiences.  
-Currently expanding my skills into **Full-Stack Development**.
-
-📫 Reach me: [bdforwk@gmail.com](mailto:bdforwk@gmail.com)  
-🌐 Portfolio: [bd-portfolio](https://bd-portfolio-v3.vercel.app/)
-
----
-
-## 🌐 My Contact
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prame.bt)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdforwk@gmail.com)
+<p align="center">
+  <a href="mailto:bdforwk@gmail.com">📫 Contact</a> •
+  <a href="https://bd-portfolio-v3.vercel.app/">🌐 Portfolio</a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+### 🧠 Tech Stack
+<div align="center">
 
-### 👨‍💻 Front-end
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+**Front-End**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
 
-### ⚙️ Back-end & Database
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TiDB](https://img.shields.io/badge/TiDB-CC1F2F?style=for-the-badge&logo=tidb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Back-End / DB**  
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express.js-404d59?style=flat-square)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![TiDB](https://img.shields.io/badge/-TiDB-CC1F2F?style=flat-square&logo=tidb&logoColor=fff)
 
-### 🚀 Deployment
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+**Tools / Deploy**  
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 
-### 🧰 Tools & Others
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramebt&layout=compact&theme=default&hide_border=false)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=banditkwn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=banditkwn&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=banditkwn&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
 ---
 
-<!-- Profile view counter (ใส่บรรทัดนี้เพิ่มเข้าไป) -->
-![Profile View Counter](https://komarev.com/ghpvc/?username=pramebt&color=blue)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=banditkwn&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://instagram.com/prame.bt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:bdforwk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>✨ Crafted with passion by <b>Bandit Kaewnoi</b></sub>
+</p>
