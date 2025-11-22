@@ -79,5 +79,5 @@ Currently expanding my skills into **Full-Stack Development**.
 ---
 
 <p align="center">
-  <sub>✨ Crafted with passion by <b>Bandit Kaewnoi</b></sub>
+  <sub>✨ <b>Bandit Kaewnoi</b></sub>
 </p>
