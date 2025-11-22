@@ -15,7 +15,7 @@ Currently expanding my skills into **Full-Stack Development**.
 
 ## 🌐 My Contact
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/prame.bt">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
