@@ -59,25 +59,6 @@ Currently expanding my skills into **Full-Stack Development**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramebt&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pramebt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramebt&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
-
-
-###
-
-
----
-
 <p align="center">
   <sub>✨ <b>Bandit Kaewnoi</b></sub>
 </p>
