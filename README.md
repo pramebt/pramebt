@@ -9,7 +9,7 @@ A passionate **Front-End Developer** who loves crafting interactive and visually
 Currently expanding my skills into **Full-Stack Development**.
 
 📫 Reach me: [bdforwk@gmail.com](mailto:bdforwk@gmail.com)  
-🌐 Portfolio: [BD-Folio](https://www.bdfolio.site/)
+🌐 Web-Portfolio: [BD-Folio](https://www.bdfolio.site/)
 
 ---
 
