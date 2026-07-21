@@ -32,17 +32,10 @@ const bandit = {
   name: "Bandit Kaewnoi",
   location: "Phayao, Thailand 🇹🇭",
   role: "Front-End Developer",
-  currentQuest: "Leveling up to Full-Stack Developer ⚔️",
+  currentQuest: "Leveling up to Full-Stack Developer ",
   passion: "Crafting interactive & visually engaging web experiences",
   favoriteStack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  funFact: "I turn coffee into pixel-perfect UIs ☕ → ✨",
 };
-```
-
-- 🔭 Currently building full-stack apps with **Next.js + Prisma + MySQL/TiDB**
-- 🌱 Learning **back-end architecture & database design**
-- 💬 Ask me about **React, Next.js, Tailwind CSS**
-- ⚡ Motto: *"Code it. Ship it. Improve it."*
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
@@ -58,14 +51,12 @@ const bandit = {
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql&theme=dark" alt="Back-End skills" />
-  <img src="https://img.shields.io/badge/TiDB-CC1F2F?style=for-the-badge&logo=tidb&logoColor=white" alt="TiDB" height="48" />
 </p>
 
 ### 🚀 Deployment & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,git,github,bitbucket,postman,figma,vscode&theme=dark" alt="Tools" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" height="48" />
 </p>
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
@@ -121,7 +112,7 @@ const bandit = {
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <p align="center">
-  <i>✨ Thanks for visiting! Feel free to reach out or check my <a href="https://www.bdfolio.site/">portfolio</a> ✨</i>
+  <i>*** Thanks for visiting! Feel free to reach out or check my <a href="https://www.bdfolio.site/">portfolio</a> ***</i>
 </p>
 
 <p align="center">
