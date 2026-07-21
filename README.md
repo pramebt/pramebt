@@ -85,12 +85,17 @@ const bandit = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramebt&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00c6ff&line=8e2de2&point=ffffff&area=true" alt="Contribution graph" />
 </p>
 
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+<!-- ═══════════════════════ PROFILE SUMMARY ═══════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🎯 Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pramebt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramebt&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pramebt&theme=tokyonight&utcOffset=7" alt="Productive time" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pramebt&theme=tokyonight" alt="Most committed language" />
 </p>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
