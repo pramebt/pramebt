@@ -89,25 +89,6 @@ const bandit = {
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pramebt&theme=tokyonight" alt="Most committed language" />
 </p>
 
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pramebt/pramebt/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pramebt/pramebt/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/pramebt/pramebt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </picture>
-</p>
-
-<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
-
-## 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</p>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
