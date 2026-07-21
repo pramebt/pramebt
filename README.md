@@ -64,8 +64,8 @@ const bandit = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pramebt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00c6ff&icon_color=8e2de2&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramebt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00c6ff&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pramebt&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pramebt&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
