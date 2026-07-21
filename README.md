@@ -36,7 +36,7 @@ const bandit = {
   passion: "Crafting interactive & visually engaging web experiences",
   favoriteStack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
 };
-
+```
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 ## 🧰 Tech Stack
